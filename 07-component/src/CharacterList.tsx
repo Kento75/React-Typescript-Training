@@ -1,4 +1,3 @@
-/* eslint-disable */
 import React, { Component } from "react"
 import { Header, Icon, Item } from "semantic-ui-react"
 
