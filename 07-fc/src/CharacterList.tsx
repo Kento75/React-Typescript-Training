@@ -35,6 +35,6 @@ const CharacterList: FC<CharacterListProps> = ({
           ))}
         </Item.Group>
       </>
-    );
+);
 
 export default CharacterList;
